@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt">
     <Files>
       <File FileName="Assets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
